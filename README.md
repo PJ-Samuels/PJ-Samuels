@@ -73,7 +73,7 @@ Hi, I'm a computer science major at Boston University (Spring '23)
 
 </div>
 
-<br/>
+<!-- <br/>
 <br/>
 <br/>
 <br/>
@@ -81,7 +81,7 @@ Hi, I'm a computer science major at Boston University (Spring '23)
 <br/>
 <br/>
 
-### Stats
+### Stats -->
       
 <!-- <p align="center">&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=pj-samuels&theme=material-palenight&hide_border=true)](https://git.io/streak-stats" alt="bernard" />
  <br> <br>
