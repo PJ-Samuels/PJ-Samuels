@@ -83,10 +83,10 @@ Hi, I'm a computer science major at Boston University (Spring '23)
 
 ### Stats
       
-<p align="center">&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=bmulaw&theme=material-palenight&hide_border=true)](https://git.io/streak-stats" alt="bernard" />
+<!-- <p align="center">&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=pj-samuels&theme=material-palenight&hide_border=true)](https://git.io/streak-stats" alt="bernard" />
  <br> <br>
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=bmulaw&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Bernard's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmulaw&hide=jupyter%20notebook&layout=compact&theme=material-palenight&langs_count=8" />
-</p>
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=pj-samuels&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Bernard's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pj-samuels&hide=jupyter%20notebook&layout=compact&theme=material-palenight&langs_count=8" />
+</p> -->
 
 
