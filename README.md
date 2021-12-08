@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <div align="center">
 
 <a href="www.linkedin.com/in/pj-samuels" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<!-- <a href="https://www.instagram.com/bernard.tech" target="_blank" rel="noopener noreferrer" ><img height="30" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
 <a href="mailto:osamuels@bu.edu" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br/>
  </div>
@@ -50,8 +49,6 @@ Hi, I'm a computer science major at Boston University (Spring '23)
 <br/>
 <br/> -->
 
-
-
 <a href="https://www.w3schools.com/html/" target="_blank"> <img align="left" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -62,7 +59,7 @@ Hi, I'm a computer science major at Boston University (Spring '23)
  
  <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
-<a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="mongodb" width="40" height="40"/> </a>
+<!-- <a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="mongodb" width="40" height="40"/> </a> -->
 
 <!-- <a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
 
