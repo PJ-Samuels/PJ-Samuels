@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center"> Software Engineer</h3>
 <div align="center">
 
-<a href=www.linkedin.com/in/pj-samuels target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/pj-samuels/" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:osamuels@bu.edu" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br/>
  </div>
