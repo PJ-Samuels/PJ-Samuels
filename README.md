@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 
 
 Hi, I'm a computer science major at Boston University (Spring '23)
+- 💻 I interned at Nasdaq as a software engineer (Summer '22)
 - 💻 I interned at CRACE Financial as a software engineer and Data scientist(Summer '20 and'21) 
-- 🌱 I’m learning **Ocaml and C++** at this moment.
-- 👀 I’m looking to **begin my software engineering career** as an intern
+- 🌱 I’m learning **Front-end developement and Backend databases** at this moment.
+- 👀 I’m looking to **continue my software engineering career** as a full-stack intern
 - 📫 Feel free to ask anything [here](mailto:osamuels@bu.edu)
 
 <div align="center">
