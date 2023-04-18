@@ -60,8 +60,8 @@ Hi, I'm a computer science major at Boston University (Spring '23)
  
  <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
-<a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="mongodb" width="40" height="40"/> </a>
-
+<!-- <a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="mongodb" width="40" height="40"/> </a>
+ -->
  <a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
 
 <a href="https://www.mysql.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
