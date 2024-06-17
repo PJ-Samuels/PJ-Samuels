@@ -28,10 +28,11 @@ Here are some ideas to get you started:
 
 
 Hi, I'm a Computer Science Graduate from Boston University (Spring '23)
+- I currently work at Freddie Mac as a Agile Software Engineer ('24)
 - 💻 I interned at Nasdaq as a Software Engineer (Summer '22)
 - 💻 I interned at CRACE Financial as a Software Engineer and Data Scientist(Summer '20 and'21) 
 - 🌱 I’m learning **Full-Stack Development** at this moment.
-- 👀 I’m looking to **continue my Software Engineering career** as a Full-Stack and Mobile App Engineer
+<!-- - 👀 I’m looking to **continue my Software Engineering career** as a Full-Stack and Mobile App Engineer -->
 - 📫 Feel free to ask anything [here](mailto:osamuels@bu.edu)
 
 <div align="center">
